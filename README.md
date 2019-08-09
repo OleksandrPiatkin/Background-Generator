@@ -1,2 +1,2 @@
-# Background-Generator
-simple gradient background generator
+# Simple Background-Generator
+## Exercise: DOM Events
